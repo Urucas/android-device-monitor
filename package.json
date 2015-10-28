@@ -1,6 +1,6 @@
 {
   "name": "android-device-monitor",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A node module to check on android usb device changes(connection, disconnection)",
   "main": "./dist/index.js",
   "scripts": {
