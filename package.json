@@ -13,6 +13,10 @@
     "type": "git",
     "url": "git+https://github.com/Urucas/android-device-monitor.git"
   },
+   "bin": {
+    "android-device-monitos": "./bin/cli"
+  },
+  "preferGlobal": true,
   "keywords": [
     "android",
     "usb",
