@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/Urucas/android-device-monitor.git"
   },
-   "bin": {
+  "bin": {
     "android-device-monitor": "./bin/cli"
   },
   "keywords": [
@@ -37,7 +37,7 @@
     "mocha": "^2.3.3"
   },
   "dependencies": {
-    "adbjs": "^0.2.1",
+    "adbjs": "^0.2.2",
     "grunt-cli": "^0.1.13",
     "semafor": "0.0.1",
     "usb-detection": "^1.3.0"
