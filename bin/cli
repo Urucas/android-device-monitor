@@ -1,0 +1,3 @@
+#!/usr/bin/env node
+var usbListener = require('../dist/index.js')
+usbListener()
