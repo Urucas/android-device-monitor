@@ -28,3 +28,7 @@ monitor({
   }
 })
 ```
+
+#Requirements
+* ADB
+* libs required by [node-usb-detection](https://github.com/MadLittleMods/node-usb-detection) module
