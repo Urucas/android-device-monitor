@@ -32,3 +32,7 @@ monitor({
 #Requirements
 * ADB
 * libs required by [node-usb-detection](https://github.com/MadLittleMods/node-usb-detection) module
+
+
+#Related
+* Receive notifications on Slack on (dis)connection events [https://github.com/Urucas/android-device-monitor-slack-integration](https://github.com/Urucas/android-device-monitor-slack-integration)
